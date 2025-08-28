@@ -1,3 +1,4 @@
+# Not currently in development or receiving game data updates. New iteration planned for 2026
 # User Guide for Celery's Isaac Command Script (CICS)
 
 | Command       | Description                                   | Aliases | Subcommands                            |
